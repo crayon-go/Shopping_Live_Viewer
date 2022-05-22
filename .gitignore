@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 chromedriver.exe
+idpw_config.py
